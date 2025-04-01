@@ -46,5 +46,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Contact
 For any questions or feedback, reach out via:
-- GitHub Issues: [https://github.com/your-username/kotlin-calculator/issues](https://github.com/RohanCyberOps/kotlin-calculator/issues)
+- GitHub Issues: [ISSUE](https://github.com/RohanCyberOps/kotlin-calculator/issues)
 - Email: your.email@example.com
